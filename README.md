@@ -24,4 +24,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy:
-[Clicque aqui para acessar o Projeto!]()
+[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/nlw-copa-card/)
